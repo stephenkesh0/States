@@ -80,7 +80,7 @@ const Register = () => {
           />
         </div>
 
-        <button className="w-full bg-black text-white hover:bg-gray-900 rounded shadow">
+        <button className="w-full bg-blue-900 text-white hover:bg-blue-600 rounded shadow">
           Login
         </button>
       </form>
