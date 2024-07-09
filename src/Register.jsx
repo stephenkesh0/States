@@ -81,7 +81,7 @@ const Register = () => {
         </div>
 
         <button className="w-full bg-blue-900 text-white hover:bg-blue-600 rounded shadow">
-          Login
+          Register
         </button>
       </form>
     </div>
